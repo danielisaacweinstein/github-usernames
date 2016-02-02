@@ -1,0 +1,10 @@
+.queryPanel {
+  text-align: center;
+  margin: 50px auto;
+  letter-spacing: 3px;
+  font-family: 'Avenir', sans-serif;
+}
+
+.queryInput {
+  width: 200px;
+}
